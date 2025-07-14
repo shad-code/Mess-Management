@@ -11,3 +11,4 @@ Mess Maven is a hostel mess management system built using Java and Spring Boot. 
 - **Dues Calculation**: Dues are calculated automatically based on attendance and canceled meals.
 - **RESTful APIs**: Fully REST-compliant API endpoints with clear route structure.
 - **Error Handling**: Graceful handling of edge cases such as invalid input, duplication, and unauthorized access.
+<img width="1914" height="873" alt="Image" src="https://github.com/user-attachments/assets/de3ddb3f-37b3-4569-b4a5-ddc8061b9741" />
